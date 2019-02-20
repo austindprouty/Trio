@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ChicoState/Trio.svg?branch=master)](https://travis-ci.org/austindprouty/Trio)
+[![Build Status](https://travis-ci.org/kbuffardi/Trio.svg?branch=master)](https://travis-ci.org/austindprouty/Trio)
 
 # Trio
 
