@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/ChicoState/Trio.svg?branch=master)](https://travis-ci.org/austindprouty/Trio)
+
 # Trio
 
 This C++ program receives three integers and tells the user the numbers in descending (largest-to-smallest) order.
